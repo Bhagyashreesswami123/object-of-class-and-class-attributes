@@ -1,0 +1,1 @@
+# object-of-class-and-class-attributes
